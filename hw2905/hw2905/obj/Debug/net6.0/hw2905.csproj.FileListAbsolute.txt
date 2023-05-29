@@ -1,0 +1,5 @@
+D:\c#\hw2905\hw2905\obj\Debug\net6.0\hw2905.csproj.AssemblyReference.cache
+D:\c#\hw2905\hw2905\obj\Debug\net6.0\hw2905.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\hw2905\hw2905\obj\Debug\net6.0\hw2905.AssemblyInfoInputs.cache
+D:\c#\hw2905\hw2905\obj\Debug\net6.0\hw2905.AssemblyInfo.cs
+D:\c#\hw2905\hw2905\obj\Debug\net6.0\hw2905.csproj.CoreCompileInputs.cache
