@@ -1,0 +1,15 @@
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\DoubleNumbers1.csproj.AssemblyReference.cache
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\DoubleNumbers1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\DoubleNumbers1.AssemblyInfoInputs.cache
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\DoubleNumbers1.AssemblyInfo.cs
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\DoubleNumbers1.csproj.CoreCompileInputs.cache
+D:\c#\DoubleNumbers1\DoubleNumbers1\bin\Debug\net6.0\DoubleNumbers1.exe
+D:\c#\DoubleNumbers1\DoubleNumbers1\bin\Debug\net6.0\DoubleNumbers1.deps.json
+D:\c#\DoubleNumbers1\DoubleNumbers1\bin\Debug\net6.0\DoubleNumbers1.runtimeconfig.json
+D:\c#\DoubleNumbers1\DoubleNumbers1\bin\Debug\net6.0\DoubleNumbers1.dll
+D:\c#\DoubleNumbers1\DoubleNumbers1\bin\Debug\net6.0\DoubleNumbers1.pdb
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\DoubleNumbers1.dll
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\refint\DoubleNumbers1.dll
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\DoubleNumbers1.pdb
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\DoubleNumbers1.genruntimeconfig.cache
+D:\c#\DoubleNumbers1\DoubleNumbers1\obj\Debug\net6.0\ref\DoubleNumbers1.dll
